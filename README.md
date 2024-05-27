@@ -7,7 +7,9 @@
  *** 
  pip install -r requirements.txt
  ***
- 모델 yolov5s.pt 사용
+ [모델 yolov5s.pt 사용]
+ [가상환경 아나콘다 사용]
+ [PYQT5 사용]
 
 
  ## 카메라 + 이미지로 인식한 물체 객체 인식 
